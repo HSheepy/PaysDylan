@@ -1,0 +1,77 @@
+
+h1 {
+text-align: center;
+color: black;
+margin: auto;
+font-family: 'Lato', sans-serif;
+}
+.slide {
+    text-align: center;
+
+}
+li {
+    display: inline;
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    background-color: red;
+    font-size: x-large;
+    
+}
+
+#japan {
+    width: 1550px;
+    height: 1000px;
+}
+
+.japan {
+    width: 500px;
+    height: 500px;
+    float: left;
+    }
+    h2 {
+
+        font-family: 'Lato', sans-serif;
+        background-color: red;
+        margin: auto;
+    }
+.paysbas {
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.norvege {
+    width:25%;
+    float: left;
+}
+.Para1
+{
+    background-color: royalblue;
+    border: solid 1px red;
+}
+.Para2 {
+    background-color: steelblue;
+    border: solid 1px red;
+}
+.Para3 {
+    background-color: aquamarine;
+    border: solid 1px red;
+}
+a {
+text-decoration: none;
+}
+a:link {
+color: white;
+}
+a:visited {
+color: white;
+}
+.container {
+    background-color: yellow;
+    color: red;
+    width: 650px;
+    height: 400px;
+    padding: 100px 60px 80px 90px;
+    margin: 100px;
+    border: solid 40px black;
+}
